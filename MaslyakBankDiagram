@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.2">
   <diagram name="Страница — 1" id="ao-C0gekORTxKoDgm0Lk">
-    <mxGraphModel dx="984" dy="2145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="531" dy="1901" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1531,7 +1531,7 @@
         <mxCell id="NeEfhYDwrsAO5mWMQQsM-10" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="3138.5699999999997" y="1240" width="202.87" height="202.87" as="geometry" />
         </mxCell>
-        <mxCell id="NeEfhYDwrsAO5mWMQQsM-11" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="NeEfhYDwrsAO5mWMQQsM-11" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;direction=east;" parent="1" vertex="1">
           <mxGeometry x="3162.63" y="1270.7799999999995" width="144.75" height="149.5" as="geometry" />
         </mxCell>
         <mxCell id="NeEfhYDwrsAO5mWMQQsM-12" value="Docker" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
